@@ -75,7 +75,7 @@
 {
     width: 30rem
 }
-@media screen and (max-width:400px) {
+@media screen and (max-width:600px) {
     .third_page_img1
     {
         width: inherit;
